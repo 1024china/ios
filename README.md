@@ -1,6 +1,6 @@
-科學上網手机工具
+#科學上網手机版工具安裝
 
-# ios 版本安装，通过PP助手
+## ios 版本安装，通过PP助手
 ######  1.下载安装pc版 PP助手
 ![](https://github.com/1024china/VPS/blob/master/1.png)
 
@@ -12,5 +12,5 @@
 ![](https://github.com/1024china/VPS/blob/master/3.jpg)
 
 
-# 安卓 版本安装，下载apk文件直接安装，手机需要root ！
+## 安卓 版本安装，下载apk文件直接安装，手机需要root ！
 Shadowsocks安卓版下载地址https://github.com/1024china/ios/blob/master/com.github.shadowsocks-4.5.0-sdk21%40APK4Fun.com.apk
