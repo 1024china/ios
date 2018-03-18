@@ -13,7 +13,7 @@
 
 
 ![](https://github.com/1024china/VPS/blob/master/3.jpg)
-
+###### 3.输入服务器配置信息，Ok
 
 ## 安卓 版本安装，下载apk文件直接安装，手机需要root ！
 Shadowsocks安卓版下载地址https://github.com/1024china/ios/blob/master/com.github.shadowsocks-4.5.0-sdk21%40APK4Fun.com.apk
