@@ -1,8 +1,8 @@
-# ios 版本安装
-######  下载安装pc版 PP助手
+# ios 版本安装，通过PP助手
+######  1.下载安装pc版 PP助手
 ![](https://github.com/1024china/VPS/blob/master/1.png)
 
-######  通过数据线连接手机和电脑, 确保手机已正确连接到电脑( 如上图所示) ,搜索下载 shadowrocket
+######  2.手机数据线连接手机和电脑, 确保手机已正确连接到电脑( 如上图所示) ,搜索下载 shadowrocket
 
 ![](https://github.com/1024china/VPS/blob/master/2.png)
 
