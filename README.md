@@ -1,4 +1,4 @@
-# ios
+# ios 版本安装
 ######  下载安装pc版 PP助手
 ![](https://github.com/1024china/VPS/blob/master/1.png)
 
